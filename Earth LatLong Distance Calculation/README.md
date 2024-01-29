@@ -1,6 +1,6 @@
 ## Earth LatLong Distance Calculation
 
-#### Code
+#### Code Implementation
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
