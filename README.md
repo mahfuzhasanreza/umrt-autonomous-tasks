@@ -8,3 +8,10 @@
 4 | ROS2 Robotic Simulator | Click [here](https://github.com/mahfuzhasanreza/ros2-robotic-simulator) for details about my `ros2-robotic-simulator` repo
 5 | ROS2 Nav2 | Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for details about my `ROS2-Nav2` repo
 6 | Earth LatLong Distance Calculation | Click [here](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/tree/main/Earth%20LatLong%20Distance%20Calculation) for details about my `Earth LatLong Distance Calculation` folder
+
+<br>
+
+### _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
+ - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
+ - _Follow me on [Instagram](https://www.instagram.com/mahfuzhasanreza/)_
+ - _Connect with me on [Facebook](https://www.facebook.com/mahfuzhasanreza/)_
