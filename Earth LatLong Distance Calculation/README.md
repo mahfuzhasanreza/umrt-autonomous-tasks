@@ -168,3 +168,11 @@ Minimum distance point 2 (latitude, longitude): (38.41992346, -110.78377270)
 #### Sample Test 2 Scenario
 
 ![sample_test_2_scenario](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/assets/115473925/8ea91b89-0fbe-42b3-a17b-0eaf3f2e5fe4)
+
+
+<br>
+
+### _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
+ - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
+ - _Follow me on [Instagram](https://www.instagram.com/mahfuzhasanreza/)_
+ - _Connect with me on [Facebook](https://www.facebook.com/mahfuzhasanreza/)_
