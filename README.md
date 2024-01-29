@@ -1,23 +1,36 @@
-# My Autonomous Tasks
+# My Autonomous Task
 
-# Bluetooth Remote Control Car
+---
+
+### Bluetooth Remote Control Car
 Click [here](https://github.com/mahfuzhasanreza/Bluetooth-RC-Car) for details about `Bluetooth-RC-Car` repo
 
-# HTML Webcam
+---
+
+### HTML Webcam
 Click [here](https://github.com/mahfuzhasanreza/HTML-Webcam) for details about this `HTML-Webcam` repo
 
-# Rover Teleop
+---
+
+### Rover Teleop
 Click [here](https://github.com/mahfuzhasanreza/rover_teleop) for details about this `rover_teleop` repo
 
-# ROS2 Robotic Simulator
+---
+
+### ROS2 Robotic Simulator
 Click [here](https://github.com/mahfuzhasanreza/ros2-robotic-simulator) for details about this `ros2-robotic-simulator` repo
 
-# ROS2 Nav2
+---
+
+### ROS2 Nav2
 Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for details about this `ROS2-Nav2` repo
 
-# Earth Coordinates Distance Calculation
+---
 
-## Sample Input 1
+### Earth Coordinates Distance Calculation
+Click [here](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/blob/main/earthCoordsDistance.cpp) for seeing the `earthCoordsDistance.cpp` code
+
+##### Sample Input 1
 ```
 8
 38.41907780
@@ -38,7 +51,7 @@ Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for details about thi
 -110.7836188
 ```
 
-## Sample Output 1
+##### Sample Output 1
 ```
 Point 1: (38.41907780, -110.78277900)
 Point 2: (38.41931294, -110.78333230)
@@ -69,7 +82,7 @@ Minimum distance point 1 (latitude, longitude): (38.41963887, -110.78377270)
 Minimum distance point 2 (latitude, longitude): (38.41992346, -110.78391570)
 ```
 
-## Sample Input 2
+##### Sample Input 2
 ```
 7
 38.41931294
@@ -88,7 +101,7 @@ Minimum distance point 2 (latitude, longitude): (38.41992346, -110.78391570)
 -110.7835360
 ```
 
-## Sample Output 2
+##### Sample Output 2
 ```
 Point 1: (38.41931294, -110.78333230)
 Point 2: (38.41963887, -110.78361880)
@@ -116,6 +129,8 @@ Minimum distance point 1 (latitude, longitude): (38.41963887, -110.78361880)
 Minimum distance point 2 (latitude, longitude): (38.41992346, -110.78377270)
 ```
 
-## Sample Test 2 Scenario
+##### Sample Test 2 Scenario
 
 ![sample_test_2_scenario](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/assets/115473925/8ea91b89-0fbe-42b3-a17b-0eaf3f2e5fe4)
+
+---
