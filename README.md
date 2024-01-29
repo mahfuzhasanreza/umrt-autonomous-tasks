@@ -1,5 +1,20 @@
 # My Autonomous Tasks
 
+# Bluetooth Remote Control Car
+Click [here](https://github.com/mahfuzhasanreza/Bluetooth-RC-Car) for details about `Bluetooth-RC-Car` repo
+
+# HTML Webcam
+Click [here](https://github.com/mahfuzhasanreza/HTML-Webcam) for details about this `HTML-Webcam` repo
+
+# Rover Teleop
+Click [here](https://github.com/mahfuzhasanreza/rover_teleop) for details about this `rover_teleop` repo
+
+# ROS2 Robotic Simulator
+Click [here](https://github.com/mahfuzhasanreza/ros2-robotic-simulator) for details about this `ros2-robotic-simulator` repo
+
+# ROS2 Nav2
+Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for details about this `ROS2-Nav2` repo
+
 # Earth Coordinates Distance Calculation
 
 ## Sample Input 1
