@@ -3,7 +3,7 @@
 \# | Task Title | Solution Link
 :-:|:----------:|:-------------
 1 | Bluetooth Remote Control Car | Click [here](https://github.com/mahfuzhasanreza/Bluetooth-RC-Car) for `bluetooth-rc-car` repo
-2 | 3D Design With Fusion 360 (Mechanical) | Click [here](https://github.com/mahfuzhasanreza/3D-with-Fusion360) for `3D-with-Fusion360` repo
+2 | 3D with Fusion 360 (Mechanical) | Click [here](https://github.com/mahfuzhasanreza/3D-with-Fusion360) for `3D-with-Fusion360` repo
 3 | HTML Webcam | Click [here](https://github.com/mahfuzhasanreza/HTML-Webcam) for `html-webcam` repo
 4 | HTML IP Webcam | Click [here](https://github.com/mahfuzhasanreza/HTML-IP-Webcam) for `html-ip-webcam` repo
 5 | Linux Boot System Documentation | Click [here](https://github.com/mahfuzhasanreza/linux-boot-system-documentation) for `linux-boot-system-documentation` repo
