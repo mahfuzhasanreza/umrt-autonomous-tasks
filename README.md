@@ -10,6 +10,7 @@
 6 | ROS2 Robotic Simulator | Click [here](https://github.com/mahfuzhasanreza/ros2-robotic-simulator) for details about my `ros2-robotic-simulator` repo
 7 | ROS2 Nav2 | Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for details about my `ros2-nav2` repo
 8 | Earth LatLong Distance Calculation | Click [here](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/tree/main/Earth%20LatLong%20Distance%20Calculation) for details about my `Earth LatLong Distance Calculation` folder
+9 | Linux Boot System Documentation | Click [here](https://github.com/mahfuzhasanreza/linux-boot-system-documentation) for details about my `linux-boot-system-documentation` repo
 
 <br>
 
