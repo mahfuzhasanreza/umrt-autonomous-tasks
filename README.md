@@ -10,9 +10,9 @@
 6 | ROS1 | Click [here](https://github.com/mahfuzhasanreza/ros1) for `ros1` repo
 7 | ROS2 | Click [here](https://github.com/mahfuzhasanreza/ros2) for `ros2` repo
 8 | ROS2 Rover Teleop | Click [here](https://github.com/mahfuzhasanreza/rover_teleop) for `rover_teleop` repo
-9 | ROS2 Robotic Simulator | Click [here](https://github.com/mahfuzhasanreza/ros2-robotic-simulator) for `ros2-robotic-simulator` repo
-10 | ROS2 Nav2 | Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for `ros2-nav2` repo
-11 | Earth LatLong Distance Calculation | Click [here](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/tree/main/Earth%20LatLong%20Distance%20Calculation) for `Earth LatLong Distance Calculation` folder
+9 | Earth LatLong Distance Calculation | Click [here](https://github.com/mahfuzhasanreza/UMRT-Autonomous-Tasks/tree/main/Earth%20LatLong%20Distance%20Calculation) for `Earth LatLong Distance Calculation` folder
+10 | ROS2 Robotic Simulator | Click [here](https://github.com/mahfuzhasanreza/ros2-robotic-simulator) for `ros2-robotic-simulator` repo
+11 | ROS2 Nav2 | Click [here](https://github.com/mahfuzhasanreza/ROS2-Nav2) for `ros2-nav2` repo
 
 <br>
 
